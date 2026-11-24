@@ -2,7 +2,7 @@
 
 Query CSV files with SQL in the browser. Load or paste CSVs, write SELECT queries with joins, grouping and filters, and export the result — nothing is uploaded, and error messages explain exactly what to fix.
 
-**Live demo:** [https://querypad.vercel.app/](https://querypad.vercel.app/) — runs entirely in your browser.
+**Live demo:** [https://querypad-app.vercel.app/](https://querypad-app.vercel.app/) — runs entirely in your browser.
 
 ![Landing with a grouped query result](docs/landing.png)
 
